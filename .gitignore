@@ -1,0 +1,9 @@
+# for common
+node_modules/**
+.vscode/**
+
+# for chrome
+src/bundle/**
+
+# for mac
+**/.DS_Store
